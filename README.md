@@ -1,2 +1,20 @@
-# proyect-Todo
-Proyecto de Todo List hecho en React.
+# Todo List
+
+_Todo list hecho para añadir tareas a la lista, tacharlas y borrarlas_
+
+### Instalación 🔧
+
+_Instalar las dependencias del package.json en la terminal._
+
+```
+npm install
+```
+
+## Construido con 🛠️
+
+* JavaScript
+* ReactJS
+
+## Autores ✒️
+
+* **Jose Manuel Vera Rodríguez** - *Trabajo Inicial* - [JVera95](https://github.com/JVera95)
